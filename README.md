@@ -2,12 +2,12 @@
 Group project to categorize text(comments) using machine learning.
 
 MEMBERS               \
-REGISTRATION NO.                           NAME                    PARTICIPATION \
-TU01-BE213-0376/2017              KEN MUTWIRI                       100% \
-TU01-BE213-0240/2017              VENNAH CHELLANGAT                 100% \
-TU01-BE213-0372/2017              KENNETH NGUMO                     100% \
-TU01-BE213-0572/2017              JAMAL HAWA                        100% \
-TU01-BE213-0381/2017              JUMA SAMUEL                       100% 
+REGISTRATION NO.         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  NAME         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           PARTICIPATION \
+TU01-BE213-0376/2017      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        KEN MUTWIRI            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           100% \
+TU01-BE213-0240/2017      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        VENNAH CHELLANGAT      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           100% \
+TU01-BE213-0372/2017      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        KENNETH NGUMO          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           100% \
+TU01-BE213-0572/2017      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        JAMAL HAWA              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          100% \
+TU01-BE213-0381/2017      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        JUMA SAMUEL              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         100% 
 
 
 ### Requirements
