@@ -16,7 +16,10 @@ they include numpy, matplotlib and tensorflow. To install them use
 > pip install tensorflow
 
 '''
+
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
+
+
 '''
